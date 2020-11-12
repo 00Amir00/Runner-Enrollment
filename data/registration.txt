@@ -1,0 +1,13 @@
+1|Half Marathon|Amir|true|0|0|0
+2|Marathon|Wendi|false|0|0|0
+3|10k Run|Ali|false|0|0|0
+4|Half Marathon|Asghar|true|0|0|0
+5|Marathon|Elena|true|0|0|0
+1|5k Walk/Run|Amir|true|0|0|0
+1|15k Run|AmirMahdi|true|0|0|0
+2|2.5k Fun Walk/Run|Majid|false|0|0|0
+2|Half Marathon|Holoo|true|0|0|0
+3|5k Walk/Run|Alooo|true|0|0|0
+4|Half Marathon|trdyugjiok|true|0|0|0
+5|2.5k Fun Walk/Run|yfhgjbmk|false|0|0|0
+1|Marathon|Amir|true|0|0|0
