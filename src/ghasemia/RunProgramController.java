@@ -26,7 +26,6 @@ import javafx.stage.Stage;
 import prog24178.assigns.models.Events;
 
 /*
- * Assignment 5
  *
  * FXML Controller class
  *

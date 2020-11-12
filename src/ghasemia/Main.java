@@ -7,7 +7,6 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * Assignment 5
  *
  * Program : Developing a class that models a program for runners
  *
@@ -18,7 +17,7 @@ import javafx.stage.Stage;
 /**
  * The default constructor which extends Application class
  */
-public class Ghasemia extends Application {
+public class Main extends Application {
 
     @Override
     // The start method which takes a stage as its parameter, and it throws exception

@@ -8,11 +8,6 @@ import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 import prog24178.assigns.models.Events;
 
-/**
- * A class that models a registration for the marathon event.
- *
- * @author your name here
- */
 public class Registration implements Comparable<Registration> {
 
     public Events event = Events.HALF;  // the event this registration is for
